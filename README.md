@@ -8,6 +8,8 @@ This data set contains simulated data that mimics customer behavior on the Starb
 
 Predicting the purchase offer that will generate a much deeper engagement of the client, and therefore it is most probably that he use that promotion.
 
+You can see the full analysis in the [medium post](https://patonv.medium.com/starbucks-reward-program-analysis-323b017f0c3e)
+
 ## Installations
 
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
