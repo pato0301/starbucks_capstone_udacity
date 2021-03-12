@@ -33,3 +33,4 @@ This repo contains 4 files.
     - Profile.json
     - Portfolio.json
     - Rranscript.json
+    - Data.csv (clean data with the join of the 3 json files of above)
